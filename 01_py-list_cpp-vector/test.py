@@ -1,5 +1,4 @@
-
-import example
+from build import example
 
 A = [1.,2.,3.,4.]
 
